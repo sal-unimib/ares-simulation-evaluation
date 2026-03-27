@@ -5,7 +5,7 @@ Simulation framework for evaluating data source selection and reconfiguration
 across different scenarios (Stable, Degradation, Dynamic).
 
 This script:
-- Imports KPI profiles (ground truth and observed) from CSV files.
+- Imports KPI profiles (ground truth and estimated) from CSV files.
 - Evaluates feasibility of each data source.
 - Computes scores to select the best data source.
 - Simulates system reconfiguration over time according to ARES policy.
@@ -48,7 +48,7 @@ def score(kpi_profile: GetWeightKpiProfile) -> float:
     """
     wr = 0.7  # weight for reliability
     wl = 0.3  # weight for latency
-    l_max = 5.0  # maximum latency normalization
+    l_max = 4.0  # maximum latency normalization
     norm_lat = min(1.0, kpi_profile.latency / l_max)
     return wr * kpi_profile.reliability - wl * norm_lat
 
@@ -96,24 +96,24 @@ def import_kpi_profiles(scenario: Scenario) -> Tuple[Dict[DataSource, List[GetWe
 
     :param scenario: The scenario to import data from
     :type scenario: Scenario
-    :return: Tuple of dictionaries containing ground truth and observed KPIs
+    :return: Tuple of dictionaries containing ground truth and estimated KPIs
     :rtype: Tuple[Dict[DataSource, List[GetWeightKpiProfile]] , Dict[DataSource, List[GetWeightKpiProfile]]]
     """
     ground_truth_kpis = {}
-    observed_kpis = {}
+    estimated_kpis = {}
 
     for ds in DataSource:
         # Ground truth
         ds_gt_df = pd.read_csv(f"data/{scenario.name}/{ds.name}_ground_truth.csv")
-        ds_gt_kpis = [GetWeightKpiProfile(row.reliability, row.latency, row.availability) for _, row in ds_gt_df.iterrows()]
+        ds_gt_kpis = [GetWeightKpiProfile(row.reliability, row.latency) for _, row in ds_gt_df.iterrows()]
         ground_truth_kpis[ds] = ds_gt_kpis
 
-        # Observed
-        ds_est_df = pd.read_csv(f"data/{scenario.name}/{ds.name}_observed.csv")
-        ds_est_kpis = [GetWeightKpiProfile(row.reliability, row.latency, row.availability) for _, row in ds_est_df.iterrows()]
-        observed_kpis[ds] = ds_est_kpis
+        # estimated
+        ds_est_df = pd.read_csv(f"data/{scenario.name}/{ds.name}_estimated.csv")
+        ds_est_kpis = [GetWeightKpiProfile(row.reliability, row.latency) for _, row in ds_est_df.iterrows()]
+        estimated_kpis[ds] = ds_est_kpis
 
-    return ground_truth_kpis, observed_kpis
+    return ground_truth_kpis, estimated_kpis
 
 # ---------------------------
 # Simulation
@@ -123,7 +123,7 @@ def simulate(scenario: Scenario) -> Simulation:
     Method to run the full simulation for a given scenario.
 
     Steps:
-    1. Import ground truth and observed KPI profiles.
+    1. Import ground truth and estimated KPI profiles.
     2. For each time step:
         - Evaluate current KPIs.
         - Compute ground truth configuration.
@@ -136,7 +136,7 @@ def simulate(scenario: Scenario) -> Simulation:
     :return: Simulation object containing KPI profiles and iterations
     :rtype: Simulation
     """
-    ground_truth_kpis, observed_kpis = import_kpi_profiles(scenario)
+    ground_truth_kpis, estimated_kpis = import_kpi_profiles(scenario)
     iterations: List[SimulationIteration] = []
 
     ares_configuration = None
@@ -145,13 +145,13 @@ def simulate(scenario: Scenario) -> Simulation:
     for t in range(TOTAL_TIME_SIMULATION):
         # Current KPI profiles
         actual_gt_kpis = {ds: ground_truth_kpis[ds][t] for ds in DataSource}
-        actual_observed_kpis = {ds: observed_kpis[ds][t] for ds in DataSource}
+        actual_estimated_kpis = {ds: estimated_kpis[ds][t] for ds in DataSource}
 
         # Reconfiguration decisions
         gt_configuration, gt_feasibility = reconfiguration(actual_gt_kpis)
-        baseline_configuration, baseline_feasibility = reconfiguration(actual_observed_kpis)
+        baseline_configuration, baseline_feasibility = reconfiguration(actual_estimated_kpis)
         if t % ARES_RECONFIG_FREQUENCY == 0:
-            ares_configuration, ares_feasibility = reconfiguration(actual_observed_kpis)
+            ares_configuration, ares_feasibility = reconfiguration(actual_estimated_kpis)
 
         # Store iteration
         iterations.append(SimulationIteration(
@@ -167,7 +167,7 @@ def simulate(scenario: Scenario) -> Simulation:
     return Simulation(
         scenario=scenario,
         ground_truth_kpi_profiles=ground_truth_kpis,
-        observed_kpi_profiles=observed_kpis,
+        estimated_kpi_profiles=estimated_kpis,
         iterations=iterations
     )
 
@@ -177,5 +177,4 @@ def simulate(scenario: Scenario) -> Simulation:
 if __name__ == '__main__':
     for scenario in Scenario:
         scenario_sim = simulate(scenario)
-        # TODO: calculate metrics (RQ1, RQ2, RQ3)
         scenario_sim.to_csv()

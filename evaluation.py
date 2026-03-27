@@ -13,11 +13,13 @@ Each metric is computed for both Baseline and ARES strategies
 using ground truth KPI profiles.
 """
 
+from collections import Counter
 import logging
 from model import Scenario, Simulation
 import os
 import pandas as pd
 from simulation import feasible, score
+import statistics
 from typing import Any, Dict, List, Tuple
 
 
@@ -118,8 +120,6 @@ def violation_burst_length(simulation: Simulation) -> Tuple[Dict[str, Any], Dict
     :return: Tuple of dictionaries (baseline stats, ARES stats)
     :rtype: Tuple[Dict[str, Any], Dict[str, Any]]
     """
-    import statistics
-    from collections import Counter
 
     _, baseline_comp, ares_comp = compliance(simulation)
 
@@ -155,6 +155,44 @@ def violation_burst_length(simulation: Simulation) -> Tuple[Dict[str, Any], Dict
     ares = compute_stats(violation_bursts(ares_comp))
 
     return baseline, ares
+
+
+# ---------------------------
+# Effectiveness
+# ---------------------------
+def adaptation_latency(simulation: Simulation) -> Tuple[Dict[str, float], Dict[str, float]]:
+    """
+    Method to compute statistics on adaptation latency.
+
+    Adaptation latency measures how quickly the system reacts to inadequacy events.
+
+    :param simulation: Simulation object
+    :type simulation: Simulation
+    :return: Tuple (baseline stats, ARES stats)
+    :rtype: Tuple[Dict[str, float], Dict[str, float]]
+    """
+    _, _, ares_comp = compliance(simulation)
+    
+    viol_time = None
+    ares_lat = []
+    for t, iter in enumerate(simulation.iterations):
+        if ares_comp[t] == 0 and viol_time == None:
+            viol_time = t
+        else:
+            if iter.ares_reconfiguration and viol_time:
+                ares_lat.append(t - viol_time - 1)
+                viol_time = None
+    
+    counter = Counter(ares_lat)
+    modes = statistics.multimode(ares_lat)
+    return {
+        "min": min(ares_lat),
+        "max": max(ares_lat),
+        "average": sum(ares_lat) / len(ares_lat),
+        "median": statistics.median(ares_lat),
+        "mode": modes,
+        "mode_count": counter[modes[0]],
+    }
 
 
 # ---------------------------
@@ -278,6 +316,23 @@ if __name__ == '__main__':
     logger.info("VBL results saved")
 
     # ---------------------------
+    # RQ2 - Adaptation Latency
+    # ---------------------------
+    logger.info("Evaluating RQ2 - Adaptation Latency")
+    os.makedirs('data/evaluation/rq2', exist_ok=True)
+    adapt_latency = []
+    for scenario in [Scenario.degradation, Scenario.dynamic]:
+        ares = adaptation_latency(simulations[scenario])
+        ares['scenario'] = scenario.name
+        adapt_latency.append(ares)
+    
+    pd.DataFrame(adapt_latency).to_csv(
+        f'data/evaluation/rq2/adaptation_latency.csv', index=False
+    )
+
+    logger.info("Adaptation Latency results saved")
+    
+    # ---------------------------
     # RQ2 - Effectiveness
     # ---------------------------
     logger.info("Evaluating RQ2 - Effectiveness")
@@ -285,6 +340,8 @@ if __name__ == '__main__':
 
     for scenario in [Scenario.degradation, Scenario.dynamic]:
         base, ares = effective_reconfiguration_rate(simulations[scenario])
+        base["system"] = "Baseline"
+        ares["system"] = "ARES"
         pd.DataFrame([base, ares]).to_csv(
             f'data/evaluation/rq2/effectiveness_{scenario.name}.csv', index=False
         )

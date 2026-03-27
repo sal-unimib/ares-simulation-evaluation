@@ -1,3 +1,3 @@
-reconfig_num,effectiveness_sum,effectiveness
-1199,273,0.22768974145120935
-47,12,0.2553191489361702
+reconfig_num,effectiveness_sum,effectiveness,system
+1199,280,0.2335279399499583,Baseline
+47,13,0.2765957446808511,ARES

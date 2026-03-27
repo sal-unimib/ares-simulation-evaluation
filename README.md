@@ -10,7 +10,7 @@ The framework is designed to simulate, execute, and evaluate dynamic data source
 
 ```
 .
-├── data_generation.py   # KPI generation (ground truth + observed)
+├── data_generation.py   # KPI generation (ground truth + estimated)
 ├── simulation.py        # Simulation of baseline and ARES strategies
 ├── evaluation.py        # Metrics computation (RQ1, RQ2, RQ3)
 ├── model.py             # Data structures and simulation model
@@ -46,13 +46,13 @@ python data_generation.py
 This step generates:
 
 * Ground truth KPI profiles
-* Observed KPI profiles (with noise)
+* estimated KPI profiles (with noise)
 
 Output:
 
 ```
 data/<scenario>/<datasource>_ground_truth.csv
-data/<scenario>/<datasource>_observed.csv
+data/<scenario>/<datasource>_estimated.csv
 ```
 
 ---
@@ -137,6 +137,10 @@ Percentage of time the selected configuration satisfies constraints.
 ### RQ1 – Violation Burst Length (VBL)
 
 Analysis of consecutive constraint violations.
+
+### RQ2 – Adaptation Latency
+
+Measures how quickly the system reacts to inadequacy events.
 
 ### RQ2 – Reconfiguration Effectiveness
 

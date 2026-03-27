@@ -59,12 +59,9 @@ class GetWeightKpiProfile:
         Value for the reliability KPI.
     latency : float
         Value for the latency KPI.
-    availability : float
-        Value for the availability KPI.
     """
     reliability: float
     latency: float
-    availability: float
 
 @dataclass
 class SimulationIteration:
@@ -107,14 +104,14 @@ class Simulation:
         Type of simulation scenario.
     ground_truth_kpi_profiles : Dict[DataSource, List[GetWeightKpiProfile]]
         Real KPI profiles for all Data Sources across all iterations.
-    observed_kpi_profiles : Dict[DataSource, List[GetWeightKpiProfile]]
-        Observed KPI profiles for all Data Sources across all iterations.
+    estimated_kpi_profiles : Dict[DataSource, List[GetWeightKpiProfile]]
+        estimated KPI profiles for all Data Sources across all iterations.
     iterations : List[SimulationIteration]
         List of simulation iteration results.
     """
     scenario: Scenario
     ground_truth_kpi_profiles: Dict[DataSource, List[GetWeightKpiProfile]]
-    observed_kpi_profiles: Dict[DataSource, List[GetWeightKpiProfile]]
+    estimated_kpi_profiles: Dict[DataSource, List[GetWeightKpiProfile]]
     iterations: List[SimulationIteration]
 
     # ---------------------------
@@ -129,7 +126,7 @@ class Simulation:
         - Feasibility flags
         - ARES reconfiguration flag
         """
-        observed_df = pd.DataFrame([{
+        estimated_df = pd.DataFrame([{
             'ground_truth_configuration': iter.ground_truth_configuration.value,
             'ground_truth_configuration_feasibility': iter.ground_truth_configuration_feasibility,
             'baseline_configuration': iter.baseline_configuration.value,
@@ -138,7 +135,7 @@ class Simulation:
             'ares_configuration_feasibility': iter.ares_configuration_feasibility,
             'ares_reconfiguration': iter.ares_reconfiguration,
         } for iter in self.iterations])
-        observed_df.to_csv(f'data/{self.scenario.name}/simulation.csv', index_label="t")
+        estimated_df.to_csv(f'data/{self.scenario.name}/simulation.csv', index_label="t")
 
     # ---------------------------
     # Import simulation from CSV
@@ -150,7 +147,7 @@ class Simulation:
 
         Reads:
         - Ground truth KPI profiles
-        - Observed KPI profiles
+        - estimated KPI profiles
         - Simulation iterations results
 
         :param scenario: Scenario to import
@@ -159,18 +156,18 @@ class Simulation:
         :rtype: Simulation
         """
         ground_truth: Dict[DataSource, List[GetWeightKpiProfile]] = {}
-        observed: Dict[DataSource, List[GetWeightKpiProfile]] = {}
+        estimated: Dict[DataSource, List[GetWeightKpiProfile]] = {}
 
         for ds in DataSource:
             # Ground truth KPIs
             gt_file = f'data/{scenario.name}/{ds.name}_ground_truth.csv'
             gt_df = pd.read_csv(gt_file, index_col='t')
-            ground_truth[ds] = [GetWeightKpiProfile(row.reliability, row.latency, row.availability) for _, row in gt_df.iterrows()]
+            ground_truth[ds] = [GetWeightKpiProfile(row.reliability, row.latency) for _, row in gt_df.iterrows()]
 
-            # Observed KPIs
-            obs_file = f'data/{scenario.name}/{ds.name}_observed.csv'
+            # estimated KPIs
+            obs_file = f'data/{scenario.name}/{ds.name}_estimated.csv'
             obs_df = pd.read_csv(obs_file, index_col='t')
-            observed[ds] = [GetWeightKpiProfile(row.reliability, row.latency, row.availability) for _, row in obs_df.iterrows()]
+            estimated[ds] = [GetWeightKpiProfile(row.reliability, row.latency) for _, row in obs_df.iterrows()]
 
         # Simulation iterations
         sim_file = f'data/{scenario.name}/simulation.csv'
@@ -190,6 +187,6 @@ class Simulation:
         return cls(
             scenario=scenario,
             ground_truth_kpi_profiles=ground_truth,
-            observed_kpi_profiles=observed,
+            estimated_kpi_profiles=estimated,
             iterations=iterations
         )
