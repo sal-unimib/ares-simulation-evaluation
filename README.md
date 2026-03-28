@@ -10,10 +10,11 @@ The framework is designed to simulate, execute, and evaluate dynamic data source
 
 ```
 .
-├── data_generation.py   # KPI generation (ground truth + estimated)
-├── simulation.py        # Simulation of baseline and ARES strategies
-├── evaluation.py        # Metrics computation (RQ1, RQ2, RQ3)
-├── model.py             # Data structures and simulation model
+├── data_generation.py         # KPI generation (ground truth + estimated)
+├── data_visualization.ipynb   # Notebook for reproducing plots from the paper
+├── evaluation.py              # Metrics computation (RQ1, RQ2, RQ3)
+├── model.py                   # Data structures and simulation model
+├── simulation.py              # Simulation of baseline and ARES strategies
 └── data/
     ├── stable/
     ├── degradation/
@@ -31,11 +32,35 @@ The framework is organized into three main phases:
 2. **Simulation Execution**
 3. **Evaluation**
 
-Each phase corresponds to a Python script.
+An additional Jupyter notebook is provided to reproduce the plots presented in the paper.
 
 ---
 
-## 🚀 Usage
+## 🚀 Setup
+
+Create and activate a virtual environment, then install dependencies:
+
+### Linux / macOS
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+### Windows
+
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+---
+
+## ▶️ Usage
 
 ### 1. Generate KPI Data
 
@@ -46,7 +71,7 @@ python data_generation.py
 This step generates:
 
 * Ground truth KPI profiles
-* estimated KPI profiles (with noise)
+* Estimated KPI profiles (with noise)
 
 Output:
 
@@ -86,6 +111,7 @@ python evaluation.py
 This step computes the experimental metrics:
 
 * **RQ1 – Constraint Satisfaction**
+* **RQ1 – Violation Burst Length**
 * **RQ2 – Reconfiguration Effectiveness**
 * **RQ3 – Cost-Quality Trade-off**
 
@@ -97,6 +123,16 @@ data/evaluation/
 ├── rq2/
 └── rq3/
 ```
+
+---
+
+### 4. Reproduce Paper Plots
+
+```bash
+jupyter notebook data_visualization.ipynb
+```
+
+The notebook reproduces the plots presented in the paper using the generated evaluation data.
 
 ---
 
@@ -138,10 +174,6 @@ Percentage of time the selected configuration satisfies constraints.
 
 Analysis of consecutive constraint violations.
 
-### RQ2 – Adaptation Latency
-
-Measures how quickly the system reacts to inadequacy events.
-
 ### RQ2 – Reconfiguration Effectiveness
 
 Measures whether reconfigurations improve system performance.
@@ -154,7 +186,7 @@ Evaluates the cost per compliant execution.
 
 ## 🔁 Reproducibility
 
-To reproduce the results:
+To fully reproduce the experimental results:
 
 ```bash
 python data_generation.py
@@ -162,7 +194,13 @@ python simulation.py
 python evaluation.py
 ```
 
-All outputs will be stored in the `data/` directory.
+Then run:
+
+```bash
+jupyter notebook data_visualization.ipynb
+```
+
+All outputs are stored in the `data/` directory.
 
 ---
 
@@ -178,5 +216,4 @@ Key simulation parameters are defined in `model.py`:
 ## 📌 Notes
 
 * The framework is deterministic unless randomness is introduced in KPI generation.
-* All results are exported in CSV format for easy analysis.
-
+* All results are exported in CSV format for easy post-processing.

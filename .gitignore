@@ -1,3 +1,7 @@
 .venv
 .DS_Store
 __pycache__
+
+data/evaluation/rq1/*.png
+data/evaluation/rq2/*.png
+data/evaluation/rq3/*.png
