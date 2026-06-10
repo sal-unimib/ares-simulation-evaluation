@@ -32,7 +32,7 @@ class DataSource(Enum):
     """
     Enumeration of the simulation Data Sources.
     """
-    smart_scale = "Smart Scale"
+    smartwatch = "SmartWatch"
     cloud_service = "Cloud Service"
     manual_input = "Manual Input"
 
@@ -49,9 +49,9 @@ class Scenario(Enum):
 # Data classes
 # ---------------------------
 @dataclass
-class GetWeightKpiProfile:
+class GetHeartRateKpiProfile:
     """
-    Class to represent the KPI profile for the GetWeight capability and a given data source at a specific time.
+    Class to represent the KPI profile for the GetHeartRate capability and a given data source at a specific time.
 
     Attributes:
     -----------
@@ -102,16 +102,16 @@ class Simulation:
     -----------
     scenario : Scenario
         Type of simulation scenario.
-    ground_truth_kpi_profiles : Dict[DataSource, List[GetWeightKpiProfile]]
+    ground_truth_kpi_profiles : Dict[DataSource, List[GetHeartRateKpiProfile]]
         Real KPI profiles for all Data Sources across all iterations.
-    estimated_kpi_profiles : Dict[DataSource, List[GetWeightKpiProfile]]
+    estimated_kpi_profiles : Dict[DataSource, List[GetHeartRateKpiProfile]]
         estimated KPI profiles for all Data Sources across all iterations.
     iterations : List[SimulationIteration]
         List of simulation iteration results.
     """
     scenario: Scenario
-    ground_truth_kpi_profiles: Dict[DataSource, List[GetWeightKpiProfile]]
-    estimated_kpi_profiles: Dict[DataSource, List[GetWeightKpiProfile]]
+    ground_truth_kpi_profiles: Dict[DataSource, List[GetHeartRateKpiProfile]]
+    estimated_kpi_profiles: Dict[DataSource, List[GetHeartRateKpiProfile]]
     iterations: List[SimulationIteration]
 
     # ---------------------------
@@ -155,19 +155,19 @@ class Simulation:
         :return: Simulation object containing all KPIs and iterations
         :rtype: Simulation
         """
-        ground_truth: Dict[DataSource, List[GetWeightKpiProfile]] = {}
-        estimated: Dict[DataSource, List[GetWeightKpiProfile]] = {}
+        ground_truth: Dict[DataSource, List[GetHeartRateKpiProfile]] = {}
+        estimated: Dict[DataSource, List[GetHeartRateKpiProfile]] = {}
 
         for ds in DataSource:
             # Ground truth KPIs
             gt_file = f'data/{scenario.name}/{ds.name}_ground_truth.csv'
             gt_df = pd.read_csv(gt_file, index_col='t')
-            ground_truth[ds] = [GetWeightKpiProfile(row.reliability, row.latency) for _, row in gt_df.iterrows()]
+            ground_truth[ds] = [GetHeartRateKpiProfile(row.reliability, row.latency) for _, row in gt_df.iterrows()]
 
             # estimated KPIs
             obs_file = f'data/{scenario.name}/{ds.name}_estimated.csv'
             obs_df = pd.read_csv(obs_file, index_col='t')
-            estimated[ds] = [GetWeightKpiProfile(row.reliability, row.latency) for _, row in obs_df.iterrows()]
+            estimated[ds] = [GetHeartRateKpiProfile(row.reliability, row.latency) for _, row in obs_df.iterrows()]
 
         # Simulation iterations
         sim_file = f'data/{scenario.name}/simulation.csv'

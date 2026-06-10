@@ -1,279 +1,279 @@
 t,ground_truth_configuration,ground_truth_configuration_feasibility,baseline_configuration,baseline_configuration_feasibility,ares_configuration,ares_configuration_feasibility,ares_reconfiguration
-0,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-1,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-2,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-3,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-4,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-5,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-6,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-7,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-8,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-9,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-10,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-11,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-12,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-13,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-14,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-15,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-16,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-17,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-18,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-19,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-20,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-21,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-22,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-23,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-24,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-25,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-26,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-27,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-28,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-29,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-30,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-31,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-32,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-33,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-34,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-35,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-36,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-37,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-38,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-39,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-40,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-41,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-42,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-43,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-44,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-45,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-46,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-47,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-48,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-49,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-50,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-51,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-52,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-53,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-54,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-55,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-56,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-57,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-58,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-59,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-60,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-61,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-62,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-63,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-64,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-65,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-66,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-67,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-68,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-69,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-70,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-71,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-72,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-73,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-74,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-75,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-76,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-77,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-78,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-79,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-80,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-81,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-82,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-83,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-84,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-85,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-86,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-87,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-88,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-89,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-90,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-91,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-92,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-93,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-94,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-95,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-96,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-97,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-98,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-99,Smart Scale,True,Smart Scale,False,Smart Scale,True,False
-100,Smart Scale,True,Cloud Service,True,Cloud Service,True,True
-101,Smart Scale,True,Smart Scale,True,Cloud Service,True,False
-102,Smart Scale,True,Smart Scale,True,Cloud Service,True,False
-103,Smart Scale,True,Smart Scale,True,Cloud Service,True,False
-104,Smart Scale,True,Smart Scale,True,Cloud Service,True,False
-105,Smart Scale,True,Smart Scale,True,Cloud Service,True,False
-106,Smart Scale,True,Smart Scale,True,Cloud Service,True,False
-107,Smart Scale,True,Smart Scale,True,Cloud Service,True,False
-108,Smart Scale,True,Smart Scale,True,Cloud Service,True,False
-109,Smart Scale,True,Smart Scale,True,Cloud Service,True,False
-110,Smart Scale,True,Smart Scale,True,Cloud Service,True,False
-111,Smart Scale,True,Smart Scale,True,Cloud Service,True,False
-112,Smart Scale,True,Cloud Service,True,Cloud Service,True,False
-113,Smart Scale,True,Smart Scale,True,Cloud Service,True,False
-114,Smart Scale,True,Smart Scale,True,Cloud Service,True,False
-115,Smart Scale,True,Smart Scale,True,Cloud Service,True,False
-116,Smart Scale,True,Smart Scale,True,Cloud Service,True,False
-117,Smart Scale,True,Cloud Service,True,Cloud Service,True,False
-118,Smart Scale,True,Smart Scale,True,Cloud Service,True,False
-119,Smart Scale,True,Smart Scale,True,Cloud Service,True,False
-120,Smart Scale,True,Smart Scale,True,Cloud Service,True,False
-121,Smart Scale,True,Smart Scale,True,Cloud Service,True,False
-122,Smart Scale,True,Manual Input,False,Cloud Service,True,False
-123,Smart Scale,True,Smart Scale,True,Cloud Service,True,False
-124,Smart Scale,True,Smart Scale,True,Cloud Service,True,False
-125,Smart Scale,True,Manual Input,False,Manual Input,False,True
-126,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-127,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-128,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-129,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-130,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-131,Smart Scale,True,Manual Input,False,Manual Input,False,False
-132,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-133,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-134,Smart Scale,True,Cloud Service,True,Manual Input,False,False
-135,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-136,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-137,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-138,Smart Scale,True,Cloud Service,True,Manual Input,False,False
-139,Smart Scale,True,Cloud Service,True,Manual Input,False,False
-140,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-141,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-142,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-143,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-144,Smart Scale,True,Cloud Service,True,Manual Input,False,False
-145,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-146,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-147,Smart Scale,True,Cloud Service,True,Manual Input,False,False
-148,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-149,Smart Scale,True,Manual Input,False,Manual Input,False,False
-150,Smart Scale,True,Manual Input,False,Manual Input,False,True
-151,Smart Scale,True,Cloud Service,True,Manual Input,False,False
-152,Smart Scale,True,Cloud Service,True,Manual Input,False,False
-153,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-154,Smart Scale,True,Manual Input,False,Manual Input,False,False
-155,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-156,Smart Scale,True,Cloud Service,True,Manual Input,False,False
-157,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-158,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-159,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-160,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-161,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-162,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-163,Smart Scale,True,Cloud Service,True,Manual Input,False,False
-164,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-165,Smart Scale,True,Manual Input,False,Manual Input,False,False
-166,Smart Scale,True,Smart Scale,True,Manual Input,False,False
-167,Cloud Service,True,Smart Scale,True,Manual Input,False,False
-168,Cloud Service,True,Smart Scale,True,Manual Input,False,False
-169,Cloud Service,True,Smart Scale,True,Manual Input,False,False
-170,Cloud Service,True,Smart Scale,True,Manual Input,False,False
-171,Cloud Service,True,Smart Scale,True,Manual Input,False,False
-172,Cloud Service,True,Smart Scale,True,Manual Input,False,False
-173,Cloud Service,True,Smart Scale,True,Manual Input,False,False
-174,Cloud Service,True,Smart Scale,True,Manual Input,False,False
+0,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+1,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+2,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+3,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+4,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+5,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+6,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+7,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+8,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+9,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+10,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+11,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+12,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+13,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+14,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+15,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+16,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+17,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+18,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+19,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+20,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+21,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+22,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+23,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+24,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+25,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+26,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+27,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+28,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+29,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+30,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+31,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+32,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+33,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+34,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+35,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+36,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+37,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+38,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+39,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+40,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+41,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+42,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+43,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+44,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+45,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+46,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+47,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+48,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+49,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+50,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+51,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+52,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+53,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+54,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+55,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+56,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+57,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+58,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+59,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+60,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+61,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+62,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+63,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+64,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+65,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+66,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+67,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+68,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+69,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+70,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+71,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+72,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+73,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+74,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+75,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+76,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+77,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+78,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+79,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+80,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+81,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+82,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+83,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+84,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+85,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+86,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+87,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+88,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+89,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+90,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+91,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+92,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+93,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+94,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+95,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+96,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+97,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+98,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+99,SmartWatch,True,SmartWatch,False,SmartWatch,True,False
+100,SmartWatch,True,Cloud Service,True,Cloud Service,True,True
+101,SmartWatch,True,SmartWatch,True,Cloud Service,True,False
+102,SmartWatch,True,SmartWatch,True,Cloud Service,True,False
+103,SmartWatch,True,SmartWatch,True,Cloud Service,True,False
+104,SmartWatch,True,SmartWatch,True,Cloud Service,True,False
+105,SmartWatch,True,SmartWatch,True,Cloud Service,True,False
+106,SmartWatch,True,SmartWatch,True,Cloud Service,True,False
+107,SmartWatch,True,SmartWatch,True,Cloud Service,True,False
+108,SmartWatch,True,SmartWatch,True,Cloud Service,True,False
+109,SmartWatch,True,SmartWatch,True,Cloud Service,True,False
+110,SmartWatch,True,SmartWatch,True,Cloud Service,True,False
+111,SmartWatch,True,SmartWatch,True,Cloud Service,True,False
+112,SmartWatch,True,Cloud Service,True,Cloud Service,True,False
+113,SmartWatch,True,SmartWatch,True,Cloud Service,True,False
+114,SmartWatch,True,SmartWatch,True,Cloud Service,True,False
+115,SmartWatch,True,SmartWatch,True,Cloud Service,True,False
+116,SmartWatch,True,SmartWatch,True,Cloud Service,True,False
+117,SmartWatch,True,Cloud Service,True,Cloud Service,True,False
+118,SmartWatch,True,SmartWatch,True,Cloud Service,True,False
+119,SmartWatch,True,SmartWatch,True,Cloud Service,True,False
+120,SmartWatch,True,SmartWatch,True,Cloud Service,True,False
+121,SmartWatch,True,SmartWatch,True,Cloud Service,True,False
+122,SmartWatch,True,Manual Input,False,Cloud Service,True,False
+123,SmartWatch,True,SmartWatch,True,Cloud Service,True,False
+124,SmartWatch,True,SmartWatch,True,Cloud Service,True,False
+125,SmartWatch,True,Manual Input,False,Manual Input,False,True
+126,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+127,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+128,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+129,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+130,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+131,SmartWatch,True,Manual Input,False,Manual Input,False,False
+132,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+133,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+134,SmartWatch,True,Cloud Service,True,Manual Input,False,False
+135,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+136,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+137,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+138,SmartWatch,True,Cloud Service,True,Manual Input,False,False
+139,SmartWatch,True,Cloud Service,True,Manual Input,False,False
+140,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+141,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+142,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+143,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+144,SmartWatch,True,Cloud Service,True,Manual Input,False,False
+145,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+146,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+147,SmartWatch,True,Cloud Service,True,Manual Input,False,False
+148,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+149,SmartWatch,True,Manual Input,False,Manual Input,False,False
+150,SmartWatch,True,Manual Input,False,Manual Input,False,True
+151,SmartWatch,True,Cloud Service,True,Manual Input,False,False
+152,SmartWatch,True,Cloud Service,True,Manual Input,False,False
+153,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+154,SmartWatch,True,Manual Input,False,Manual Input,False,False
+155,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+156,SmartWatch,True,Cloud Service,True,Manual Input,False,False
+157,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+158,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+159,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+160,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+161,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+162,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+163,SmartWatch,True,Cloud Service,True,Manual Input,False,False
+164,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+165,SmartWatch,True,Manual Input,False,Manual Input,False,False
+166,SmartWatch,True,SmartWatch,True,Manual Input,False,False
+167,Cloud Service,True,SmartWatch,True,Manual Input,False,False
+168,Cloud Service,True,SmartWatch,True,Manual Input,False,False
+169,Cloud Service,True,SmartWatch,True,Manual Input,False,False
+170,Cloud Service,True,SmartWatch,True,Manual Input,False,False
+171,Cloud Service,True,SmartWatch,True,Manual Input,False,False
+172,Cloud Service,True,SmartWatch,True,Manual Input,False,False
+173,Cloud Service,True,SmartWatch,True,Manual Input,False,False
+174,Cloud Service,True,SmartWatch,True,Manual Input,False,False
 175,Cloud Service,True,Manual Input,False,Manual Input,False,True
 176,Cloud Service,True,Manual Input,False,Manual Input,False,False
-177,Cloud Service,True,Smart Scale,True,Manual Input,False,False
-178,Cloud Service,True,Smart Scale,True,Manual Input,False,False
-179,Cloud Service,True,Smart Scale,True,Manual Input,False,False
-180,Cloud Service,True,Smart Scale,True,Manual Input,False,False
+177,Cloud Service,True,SmartWatch,True,Manual Input,False,False
+178,Cloud Service,True,SmartWatch,True,Manual Input,False,False
+179,Cloud Service,True,SmartWatch,True,Manual Input,False,False
+180,Cloud Service,True,SmartWatch,True,Manual Input,False,False
 181,Cloud Service,True,Cloud Service,True,Manual Input,False,False
 182,Cloud Service,True,Cloud Service,True,Manual Input,False,False
-183,Cloud Service,True,Smart Scale,False,Manual Input,False,False
-184,Cloud Service,True,Smart Scale,False,Manual Input,False,False
+183,Cloud Service,True,SmartWatch,False,Manual Input,False,False
+184,Cloud Service,True,SmartWatch,False,Manual Input,False,False
 185,Cloud Service,True,Cloud Service,True,Manual Input,False,False
-186,Cloud Service,True,Smart Scale,True,Manual Input,False,False
+186,Cloud Service,True,SmartWatch,True,Manual Input,False,False
 187,Cloud Service,True,Cloud Service,True,Manual Input,False,False
 188,Cloud Service,True,Manual Input,False,Manual Input,False,False
-189,Cloud Service,True,Smart Scale,True,Manual Input,False,False
-190,Cloud Service,True,Smart Scale,True,Manual Input,False,False
+189,Cloud Service,True,SmartWatch,True,Manual Input,False,False
+190,Cloud Service,True,SmartWatch,True,Manual Input,False,False
 191,Cloud Service,True,Manual Input,False,Manual Input,False,False
 192,Cloud Service,True,Cloud Service,True,Manual Input,False,False
 193,Cloud Service,True,Manual Input,False,Manual Input,False,False
-194,Cloud Service,True,Smart Scale,True,Manual Input,False,False
+194,Cloud Service,True,SmartWatch,True,Manual Input,False,False
 195,Cloud Service,True,Manual Input,False,Manual Input,False,False
-196,Cloud Service,True,Smart Scale,True,Manual Input,False,False
-197,Cloud Service,True,Smart Scale,False,Manual Input,False,False
-198,Cloud Service,True,Smart Scale,True,Manual Input,False,False
+196,Cloud Service,True,SmartWatch,True,Manual Input,False,False
+197,Cloud Service,True,SmartWatch,False,Manual Input,False,False
+198,Cloud Service,True,SmartWatch,True,Manual Input,False,False
 199,Cloud Service,True,Cloud Service,True,Manual Input,False,False
-200,Cloud Service,True,Smart Scale,True,Smart Scale,True,True
-201,Cloud Service,True,Manual Input,False,Smart Scale,True,False
-202,Cloud Service,True,Smart Scale,False,Smart Scale,True,False
-203,Cloud Service,True,Smart Scale,True,Smart Scale,True,False
-204,Cloud Service,True,Smart Scale,True,Smart Scale,True,False
-205,Cloud Service,True,Smart Scale,True,Smart Scale,True,False
-206,Cloud Service,True,Smart Scale,True,Smart Scale,True,False
-207,Cloud Service,True,Smart Scale,True,Smart Scale,True,False
-208,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-209,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-210,Cloud Service,True,Smart Scale,True,Smart Scale,True,False
-211,Cloud Service,True,Smart Scale,True,Smart Scale,True,False
-212,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-213,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-214,Cloud Service,True,Smart Scale,True,Smart Scale,True,False
-215,Cloud Service,True,Smart Scale,True,Smart Scale,True,False
-216,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-217,Cloud Service,True,Manual Input,False,Smart Scale,True,False
-218,Cloud Service,True,Manual Input,False,Smart Scale,True,False
-219,Cloud Service,True,Manual Input,False,Smart Scale,True,False
-220,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-221,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-222,Cloud Service,True,Smart Scale,True,Smart Scale,True,False
-223,Cloud Service,True,Smart Scale,True,Smart Scale,True,False
-224,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-225,Cloud Service,True,Smart Scale,True,Smart Scale,True,True
-226,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-227,Cloud Service,True,Manual Input,False,Smart Scale,True,False
-228,Cloud Service,True,Smart Scale,False,Smart Scale,True,False
-229,Cloud Service,True,Smart Scale,True,Smart Scale,True,False
-230,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-231,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-232,Cloud Service,True,Manual Input,False,Smart Scale,True,False
-233,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-234,Cloud Service,True,Smart Scale,False,Smart Scale,True,False
-235,Cloud Service,True,Manual Input,False,Smart Scale,True,False
-236,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-237,Cloud Service,True,Manual Input,False,Smart Scale,True,False
-238,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-239,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-240,Cloud Service,True,Smart Scale,True,Smart Scale,True,False
-241,Cloud Service,True,Manual Input,False,Smart Scale,True,False
-242,Cloud Service,True,Manual Input,False,Smart Scale,True,False
-243,Cloud Service,True,Smart Scale,True,Smart Scale,True,False
-244,Cloud Service,True,Smart Scale,True,Smart Scale,True,False
-245,Cloud Service,True,Manual Input,False,Smart Scale,True,False
-246,Cloud Service,True,Smart Scale,True,Smart Scale,True,False
-247,Cloud Service,True,Manual Input,False,Smart Scale,True,False
-248,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-249,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-250,Cloud Service,True,Smart Scale,True,Smart Scale,True,True
-251,Cloud Service,True,Manual Input,False,Smart Scale,True,False
-252,Cloud Service,True,Smart Scale,True,Smart Scale,True,False
-253,Cloud Service,True,Smart Scale,True,Smart Scale,True,False
-254,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-255,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-256,Cloud Service,True,Smart Scale,True,Smart Scale,True,False
-257,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-258,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-259,Cloud Service,True,Manual Input,False,Smart Scale,True,False
-260,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-261,Cloud Service,True,Manual Input,False,Smart Scale,True,False
-262,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-263,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-264,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-265,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-266,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-267,Cloud Service,True,Manual Input,False,Smart Scale,True,False
-268,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-269,Cloud Service,True,Manual Input,False,Smart Scale,True,False
-270,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-271,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-272,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-273,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
-274,Cloud Service,True,Cloud Service,True,Smart Scale,True,False
+200,Cloud Service,True,SmartWatch,True,SmartWatch,True,True
+201,Cloud Service,True,Manual Input,False,SmartWatch,True,False
+202,Cloud Service,True,SmartWatch,False,SmartWatch,True,False
+203,Cloud Service,True,SmartWatch,True,SmartWatch,True,False
+204,Cloud Service,True,SmartWatch,True,SmartWatch,True,False
+205,Cloud Service,True,SmartWatch,True,SmartWatch,True,False
+206,Cloud Service,True,SmartWatch,True,SmartWatch,True,False
+207,Cloud Service,True,SmartWatch,True,SmartWatch,True,False
+208,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+209,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+210,Cloud Service,True,SmartWatch,True,SmartWatch,True,False
+211,Cloud Service,True,SmartWatch,True,SmartWatch,True,False
+212,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+213,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+214,Cloud Service,True,SmartWatch,True,SmartWatch,True,False
+215,Cloud Service,True,SmartWatch,True,SmartWatch,True,False
+216,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+217,Cloud Service,True,Manual Input,False,SmartWatch,True,False
+218,Cloud Service,True,Manual Input,False,SmartWatch,True,False
+219,Cloud Service,True,Manual Input,False,SmartWatch,True,False
+220,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+221,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+222,Cloud Service,True,SmartWatch,True,SmartWatch,True,False
+223,Cloud Service,True,SmartWatch,True,SmartWatch,True,False
+224,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+225,Cloud Service,True,SmartWatch,True,SmartWatch,True,True
+226,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+227,Cloud Service,True,Manual Input,False,SmartWatch,True,False
+228,Cloud Service,True,SmartWatch,False,SmartWatch,True,False
+229,Cloud Service,True,SmartWatch,True,SmartWatch,True,False
+230,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+231,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+232,Cloud Service,True,Manual Input,False,SmartWatch,True,False
+233,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+234,Cloud Service,True,SmartWatch,False,SmartWatch,True,False
+235,Cloud Service,True,Manual Input,False,SmartWatch,True,False
+236,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+237,Cloud Service,True,Manual Input,False,SmartWatch,True,False
+238,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+239,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+240,Cloud Service,True,SmartWatch,True,SmartWatch,True,False
+241,Cloud Service,True,Manual Input,False,SmartWatch,True,False
+242,Cloud Service,True,Manual Input,False,SmartWatch,True,False
+243,Cloud Service,True,SmartWatch,True,SmartWatch,True,False
+244,Cloud Service,True,SmartWatch,True,SmartWatch,True,False
+245,Cloud Service,True,Manual Input,False,SmartWatch,True,False
+246,Cloud Service,True,SmartWatch,True,SmartWatch,True,False
+247,Cloud Service,True,Manual Input,False,SmartWatch,True,False
+248,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+249,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+250,Cloud Service,True,SmartWatch,True,SmartWatch,True,True
+251,Cloud Service,True,Manual Input,False,SmartWatch,True,False
+252,Cloud Service,True,SmartWatch,True,SmartWatch,True,False
+253,Cloud Service,True,SmartWatch,True,SmartWatch,True,False
+254,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+255,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+256,Cloud Service,True,SmartWatch,True,SmartWatch,True,False
+257,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+258,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+259,Cloud Service,True,Manual Input,False,SmartWatch,True,False
+260,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+261,Cloud Service,True,Manual Input,False,SmartWatch,True,False
+262,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+263,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+264,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+265,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+266,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+267,Cloud Service,True,Manual Input,False,SmartWatch,True,False
+268,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+269,Cloud Service,True,Manual Input,False,SmartWatch,True,False
+270,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+271,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+272,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+273,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
+274,Cloud Service,True,Cloud Service,True,SmartWatch,True,False
 275,Cloud Service,True,Cloud Service,True,Cloud Service,True,True
 276,Cloud Service,True,Cloud Service,True,Cloud Service,True,False
 277,Cloud Service,True,Cloud Service,True,Cloud Service,True,False
@@ -312,7 +312,7 @@ t,ground_truth_configuration,ground_truth_configuration_feasibility,baseline_con
 310,Cloud Service,True,Manual Input,False,Cloud Service,True,False
 311,Cloud Service,True,Cloud Service,True,Cloud Service,True,False
 312,Cloud Service,True,Cloud Service,False,Cloud Service,True,False
-313,Cloud Service,True,Smart Scale,False,Cloud Service,True,False
+313,Cloud Service,True,SmartWatch,False,Cloud Service,True,False
 314,Cloud Service,True,Cloud Service,True,Cloud Service,True,False
 315,Cloud Service,True,Cloud Service,True,Cloud Service,True,False
 316,Cloud Service,True,Manual Input,False,Cloud Service,True,False

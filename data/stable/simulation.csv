@@ -1,1201 +1,1201 @@
 t,ground_truth_configuration,ground_truth_configuration_feasibility,baseline_configuration,baseline_configuration_feasibility,ares_configuration,ares_configuration_feasibility,ares_reconfiguration
-0,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-1,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-2,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-3,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-4,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-5,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-6,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-7,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-8,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-9,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-10,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-11,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-12,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-13,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-14,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-15,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-16,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-17,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-18,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-19,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-20,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-21,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-22,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-23,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-24,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-25,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-26,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-27,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-28,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-29,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-30,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-31,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-32,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-33,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-34,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-35,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-36,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-37,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-38,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-39,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-40,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-41,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-42,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-43,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-44,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-45,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-46,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-47,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-48,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-49,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-50,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-51,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-52,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-53,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-54,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-55,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-56,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-57,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-58,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-59,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-60,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-61,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-62,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-63,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-64,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-65,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-66,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-67,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-68,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-69,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-70,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-71,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-72,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-73,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-74,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-75,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-76,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-77,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-78,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-79,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-80,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-81,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-82,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-83,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-84,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-85,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-86,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-87,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-88,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-89,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-90,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-91,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-92,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-93,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-94,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-95,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-96,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-97,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-98,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-99,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-100,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-101,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-102,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-103,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-104,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-105,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-106,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-107,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-108,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-109,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-110,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-111,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-112,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-113,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-114,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-115,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-116,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-117,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-118,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-119,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-120,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-121,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-122,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-123,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-124,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-125,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-126,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-127,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-128,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-129,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-130,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-131,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-132,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-133,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-134,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-135,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-136,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-137,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-138,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-139,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-140,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-141,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-142,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-143,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-144,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-145,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-146,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-147,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-148,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-149,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-150,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-151,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-152,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-153,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-154,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-155,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-156,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-157,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-158,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-159,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-160,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-161,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-162,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-163,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-164,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-165,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-166,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-167,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-168,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-169,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-170,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-171,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-172,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-173,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-174,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-175,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-176,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-177,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-178,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-179,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-180,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-181,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-182,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-183,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-184,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-185,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-186,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-187,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-188,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-189,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-190,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-191,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-192,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-193,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-194,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-195,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-196,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-197,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-198,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-199,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-200,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-201,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-202,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-203,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-204,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-205,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-206,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-207,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-208,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-209,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-210,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-211,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-212,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-213,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-214,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-215,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-216,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-217,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-218,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-219,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-220,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-221,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-222,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-223,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-224,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-225,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-226,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-227,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-228,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-229,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-230,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-231,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-232,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-233,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-234,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-235,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-236,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-237,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-238,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-239,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-240,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-241,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-242,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-243,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-244,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-245,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-246,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-247,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-248,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-249,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-250,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-251,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-252,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-253,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-254,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-255,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-256,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-257,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-258,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-259,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-260,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-261,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-262,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-263,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-264,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-265,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-266,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-267,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-268,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-269,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-270,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-271,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-272,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-273,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-274,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-275,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-276,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-277,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-278,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-279,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-280,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-281,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-282,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-283,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-284,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-285,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-286,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-287,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-288,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-289,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-290,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-291,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-292,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-293,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-294,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-295,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-296,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-297,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-298,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-299,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-300,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-301,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-302,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-303,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-304,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-305,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-306,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-307,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-308,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-309,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-310,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-311,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-312,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-313,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-314,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-315,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-316,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-317,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-318,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-319,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-320,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-321,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-322,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-323,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-324,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-325,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-326,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-327,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-328,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-329,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-330,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-331,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-332,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-333,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-334,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-335,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-336,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-337,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-338,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-339,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-340,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-341,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-342,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-343,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-344,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-345,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-346,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-347,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-348,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-349,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-350,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-351,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-352,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-353,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-354,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-355,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-356,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-357,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-358,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-359,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-360,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-361,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-362,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-363,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-364,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-365,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-366,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-367,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-368,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-369,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-370,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-371,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-372,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-373,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-374,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-375,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-376,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-377,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-378,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-379,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-380,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-381,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-382,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-383,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-384,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-385,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-386,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-387,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-388,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-389,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-390,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-391,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-392,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-393,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-394,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-395,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-396,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-397,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-398,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-399,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-400,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-401,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-402,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-403,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-404,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-405,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-406,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-407,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-408,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-409,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-410,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-411,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-412,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-413,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-414,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-415,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-416,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-417,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-418,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-419,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-420,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-421,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-422,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-423,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-424,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-425,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-426,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-427,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-428,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-429,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-430,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-431,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-432,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-433,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-434,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-435,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-436,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-437,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-438,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-439,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-440,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-441,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-442,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-443,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-444,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-445,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-446,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-447,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-448,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-449,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-450,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-451,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-452,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-453,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-454,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-455,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-456,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-457,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-458,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-459,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-460,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-461,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-462,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-463,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-464,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-465,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-466,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-467,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-468,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-469,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-470,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-471,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-472,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-473,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-474,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-475,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-476,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-477,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-478,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-479,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-480,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-481,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-482,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-483,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-484,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-485,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-486,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-487,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-488,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-489,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-490,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-491,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-492,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-493,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-494,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-495,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-496,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-497,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-498,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-499,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-500,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-501,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-502,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-503,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-504,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-505,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-506,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-507,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-508,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-509,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-510,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-511,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-512,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-513,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-514,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-515,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-516,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-517,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-518,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-519,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-520,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-521,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-522,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-523,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-524,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-525,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-526,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-527,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-528,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-529,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-530,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-531,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-532,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-533,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-534,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-535,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-536,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-537,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-538,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-539,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-540,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-541,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-542,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-543,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-544,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-545,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-546,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-547,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-548,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-549,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-550,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-551,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-552,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-553,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-554,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-555,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-556,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-557,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-558,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-559,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-560,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-561,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-562,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-563,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-564,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-565,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-566,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-567,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-568,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-569,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-570,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-571,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-572,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-573,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-574,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-575,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-576,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-577,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-578,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-579,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-580,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-581,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-582,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-583,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-584,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-585,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-586,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-587,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-588,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-589,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-590,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-591,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-592,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-593,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-594,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-595,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-596,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-597,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-598,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-599,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-600,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-601,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-602,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-603,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-604,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-605,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-606,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-607,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-608,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-609,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-610,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-611,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-612,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-613,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-614,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-615,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-616,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-617,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-618,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-619,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-620,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-621,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-622,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-623,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-624,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-625,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-626,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-627,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-628,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-629,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-630,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-631,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-632,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-633,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-634,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-635,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-636,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-637,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-638,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-639,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-640,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-641,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-642,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-643,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-644,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-645,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-646,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-647,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-648,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-649,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-650,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-651,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-652,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-653,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-654,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-655,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-656,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-657,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-658,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-659,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-660,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-661,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-662,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-663,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-664,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-665,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-666,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-667,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-668,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-669,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-670,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-671,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-672,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-673,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-674,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-675,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-676,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-677,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-678,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-679,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-680,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-681,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-682,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-683,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-684,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-685,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-686,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-687,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-688,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-689,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-690,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-691,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-692,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-693,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-694,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-695,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-696,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-697,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-698,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-699,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-700,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-701,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-702,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-703,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-704,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-705,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-706,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-707,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-708,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-709,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-710,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-711,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-712,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-713,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-714,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-715,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-716,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-717,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-718,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-719,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-720,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-721,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-722,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-723,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-724,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-725,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-726,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-727,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-728,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-729,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-730,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-731,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-732,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-733,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-734,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-735,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-736,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-737,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-738,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-739,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-740,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-741,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-742,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-743,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-744,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-745,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-746,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-747,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-748,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-749,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-750,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-751,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-752,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-753,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-754,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-755,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-756,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-757,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-758,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-759,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-760,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-761,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-762,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-763,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-764,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-765,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-766,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-767,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-768,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-769,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-770,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-771,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-772,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-773,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-774,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-775,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-776,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-777,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-778,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-779,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-780,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-781,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-782,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-783,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-784,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-785,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-786,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-787,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-788,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-789,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-790,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-791,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-792,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-793,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-794,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-795,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-796,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-797,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-798,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-799,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-800,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-801,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-802,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-803,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-804,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-805,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-806,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-807,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-808,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-809,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-810,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-811,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-812,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-813,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-814,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-815,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-816,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-817,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-818,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-819,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-820,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-821,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-822,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-823,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-824,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-825,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-826,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-827,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-828,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-829,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-830,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-831,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-832,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-833,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-834,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-835,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-836,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-837,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-838,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-839,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-840,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-841,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-842,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-843,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-844,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-845,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-846,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-847,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-848,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-849,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-850,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-851,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-852,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-853,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-854,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-855,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-856,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-857,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-858,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-859,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-860,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-861,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-862,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-863,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-864,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-865,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-866,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-867,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-868,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-869,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-870,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-871,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-872,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-873,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-874,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-875,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-876,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-877,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-878,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-879,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-880,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-881,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-882,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-883,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-884,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-885,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-886,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-887,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-888,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-889,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-890,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-891,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-892,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-893,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-894,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-895,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-896,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-897,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-898,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-899,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-900,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-901,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-902,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-903,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-904,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-905,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-906,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-907,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-908,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-909,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-910,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-911,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-912,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-913,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-914,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-915,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-916,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-917,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-918,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-919,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-920,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-921,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-922,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-923,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-924,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-925,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-926,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-927,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-928,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-929,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-930,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-931,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-932,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-933,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-934,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-935,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-936,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-937,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-938,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-939,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-940,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-941,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-942,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-943,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-944,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-945,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-946,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-947,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-948,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-949,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-950,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-951,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-952,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-953,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-954,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-955,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-956,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-957,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-958,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-959,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-960,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-961,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-962,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-963,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-964,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-965,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-966,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-967,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-968,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-969,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-970,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-971,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-972,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-973,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-974,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-975,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-976,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-977,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-978,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-979,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-980,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-981,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-982,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-983,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-984,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-985,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-986,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-987,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-988,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-989,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-990,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-991,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-992,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-993,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-994,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-995,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-996,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-997,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-998,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-999,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1000,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-1001,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1002,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1003,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1004,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1005,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1006,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1007,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1008,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1009,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1010,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1011,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1012,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1013,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1014,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1015,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1016,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1017,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1018,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1019,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1020,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1021,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1022,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1023,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1024,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1025,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-1026,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1027,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1028,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1029,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1030,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1031,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1032,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1033,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1034,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1035,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1036,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1037,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1038,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1039,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1040,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1041,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1042,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1043,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1044,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1045,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1046,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1047,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1048,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1049,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1050,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-1051,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1052,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1053,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1054,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1055,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1056,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1057,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1058,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1059,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1060,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1061,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1062,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1063,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1064,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1065,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1066,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1067,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1068,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1069,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1070,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1071,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1072,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1073,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1074,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1075,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-1076,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1077,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1078,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1079,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1080,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1081,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1082,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1083,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1084,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1085,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1086,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1087,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1088,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1089,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1090,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1091,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1092,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1093,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1094,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1095,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1096,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1097,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1098,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1099,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1100,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-1101,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1102,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1103,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1104,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1105,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1106,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1107,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1108,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1109,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1110,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1111,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1112,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1113,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1114,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1115,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1116,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1117,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1118,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1119,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1120,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1121,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1122,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1123,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1124,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1125,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-1126,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1127,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1128,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1129,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1130,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1131,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1132,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1133,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1134,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1135,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1136,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1137,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1138,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1139,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1140,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1141,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1142,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1143,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1144,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1145,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1146,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1147,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1148,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1149,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1150,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-1151,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1152,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1153,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1154,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1155,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1156,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1157,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1158,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1159,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1160,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1161,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1162,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1163,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1164,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1165,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1166,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1167,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1168,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1169,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1170,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1171,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1172,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1173,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1174,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1175,Smart Scale,True,Smart Scale,True,Smart Scale,True,True
-1176,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1177,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1178,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1179,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1180,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1181,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1182,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1183,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1184,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1185,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1186,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1187,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1188,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1189,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1190,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1191,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1192,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1193,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1194,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1195,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1196,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1197,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1198,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
-1199,Smart Scale,True,Smart Scale,True,Smart Scale,True,False
+0,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+1,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+2,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+3,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+4,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+5,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+6,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+7,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+8,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+9,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+10,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+11,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+12,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+13,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+14,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+15,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+16,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+17,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+18,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+19,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+20,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+21,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+22,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+23,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+24,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+25,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+26,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+27,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+28,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+29,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+30,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+31,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+32,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+33,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+34,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+35,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+36,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+37,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+38,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+39,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+40,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+41,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+42,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+43,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+44,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+45,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+46,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+47,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+48,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+49,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+50,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+51,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+52,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+53,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+54,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+55,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+56,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+57,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+58,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+59,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+60,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+61,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+62,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+63,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+64,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+65,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+66,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+67,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+68,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+69,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+70,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+71,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+72,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+73,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+74,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+75,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+76,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+77,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+78,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+79,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+80,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+81,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+82,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+83,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+84,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+85,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+86,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+87,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+88,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+89,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+90,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+91,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+92,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+93,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+94,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+95,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+96,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+97,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+98,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+99,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+100,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+101,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+102,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+103,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+104,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+105,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+106,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+107,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+108,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+109,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+110,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+111,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+112,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+113,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+114,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+115,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+116,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+117,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+118,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+119,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+120,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+121,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+122,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+123,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+124,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+125,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+126,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+127,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+128,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+129,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+130,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+131,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+132,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+133,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+134,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+135,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+136,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+137,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+138,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+139,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+140,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+141,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+142,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+143,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+144,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+145,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+146,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+147,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+148,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+149,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+150,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+151,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+152,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+153,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+154,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+155,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+156,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+157,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+158,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+159,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+160,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+161,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+162,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+163,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+164,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+165,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+166,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+167,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+168,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+169,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+170,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+171,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+172,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+173,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+174,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+175,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+176,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+177,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+178,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+179,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+180,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+181,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+182,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+183,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+184,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+185,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+186,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+187,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+188,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+189,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+190,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+191,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+192,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+193,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+194,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+195,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+196,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+197,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+198,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+199,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+200,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+201,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+202,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+203,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+204,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+205,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+206,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+207,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+208,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+209,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+210,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+211,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+212,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+213,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+214,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+215,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+216,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+217,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+218,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+219,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+220,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+221,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+222,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+223,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+224,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+225,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+226,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+227,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+228,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+229,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+230,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+231,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+232,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+233,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+234,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+235,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+236,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+237,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+238,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+239,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+240,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+241,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+242,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+243,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+244,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+245,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+246,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+247,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+248,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+249,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+250,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+251,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+252,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+253,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+254,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+255,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+256,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+257,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+258,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+259,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+260,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+261,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+262,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+263,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+264,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+265,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+266,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+267,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+268,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+269,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+270,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+271,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+272,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+273,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+274,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+275,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+276,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+277,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+278,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+279,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+280,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+281,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+282,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+283,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+284,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+285,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+286,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+287,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+288,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+289,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+290,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+291,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+292,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+293,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+294,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+295,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+296,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+297,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+298,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+299,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+300,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+301,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+302,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+303,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+304,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+305,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+306,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+307,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+308,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+309,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+310,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+311,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+312,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+313,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+314,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+315,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+316,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+317,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+318,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+319,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+320,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+321,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+322,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+323,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+324,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+325,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+326,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+327,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+328,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+329,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+330,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+331,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+332,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+333,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+334,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+335,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+336,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+337,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+338,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+339,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+340,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+341,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+342,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+343,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+344,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+345,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+346,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+347,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+348,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+349,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+350,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+351,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+352,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+353,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+354,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+355,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+356,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+357,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+358,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+359,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+360,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+361,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+362,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+363,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+364,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+365,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+366,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+367,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+368,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+369,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+370,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+371,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+372,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+373,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+374,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+375,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+376,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+377,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+378,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+379,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+380,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+381,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+382,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+383,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+384,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+385,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+386,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+387,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+388,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+389,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+390,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+391,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+392,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+393,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+394,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+395,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+396,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+397,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+398,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+399,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+400,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+401,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+402,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+403,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+404,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+405,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+406,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+407,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+408,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+409,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+410,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+411,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+412,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+413,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+414,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+415,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+416,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+417,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+418,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+419,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+420,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+421,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+422,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+423,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+424,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+425,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+426,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+427,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+428,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+429,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+430,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+431,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+432,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+433,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+434,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+435,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+436,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+437,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+438,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+439,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+440,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+441,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+442,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+443,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+444,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+445,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+446,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+447,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+448,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+449,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+450,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+451,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+452,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+453,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+454,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+455,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+456,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+457,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+458,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+459,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+460,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+461,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+462,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+463,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+464,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+465,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+466,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+467,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+468,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+469,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+470,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+471,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+472,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+473,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+474,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+475,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+476,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+477,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+478,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+479,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+480,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+481,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+482,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+483,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+484,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+485,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+486,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+487,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+488,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+489,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+490,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+491,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+492,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+493,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+494,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+495,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+496,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+497,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+498,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+499,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+500,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+501,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+502,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+503,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+504,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+505,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+506,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+507,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+508,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+509,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+510,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+511,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+512,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+513,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+514,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+515,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+516,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+517,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+518,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+519,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+520,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+521,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+522,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+523,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+524,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+525,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+526,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+527,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+528,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+529,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+530,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+531,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+532,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+533,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+534,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+535,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+536,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+537,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+538,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+539,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+540,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+541,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+542,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+543,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+544,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+545,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+546,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+547,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+548,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+549,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+550,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+551,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+552,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+553,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+554,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+555,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+556,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+557,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+558,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+559,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+560,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+561,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+562,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+563,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+564,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+565,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+566,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+567,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+568,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+569,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+570,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+571,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+572,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+573,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+574,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+575,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+576,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+577,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+578,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+579,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+580,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+581,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+582,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+583,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+584,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+585,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+586,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+587,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+588,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+589,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+590,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+591,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+592,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+593,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+594,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+595,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+596,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+597,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+598,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+599,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+600,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+601,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+602,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+603,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+604,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+605,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+606,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+607,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+608,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+609,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+610,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+611,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+612,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+613,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+614,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+615,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+616,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+617,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+618,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+619,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+620,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+621,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+622,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+623,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+624,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+625,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+626,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+627,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+628,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+629,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+630,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+631,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+632,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+633,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+634,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+635,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+636,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+637,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+638,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+639,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+640,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+641,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+642,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+643,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+644,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+645,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+646,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+647,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+648,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+649,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+650,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+651,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+652,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+653,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+654,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+655,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+656,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+657,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+658,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+659,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+660,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+661,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+662,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+663,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+664,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+665,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+666,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+667,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+668,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+669,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+670,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+671,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+672,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+673,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+674,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+675,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+676,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+677,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+678,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+679,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+680,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+681,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+682,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+683,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+684,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+685,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+686,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+687,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+688,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+689,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+690,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+691,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+692,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+693,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+694,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+695,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+696,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+697,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+698,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+699,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+700,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+701,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+702,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+703,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+704,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+705,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+706,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+707,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+708,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+709,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+710,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+711,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+712,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+713,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+714,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+715,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+716,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+717,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+718,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+719,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+720,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+721,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+722,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+723,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+724,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+725,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+726,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+727,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+728,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+729,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+730,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+731,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+732,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+733,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+734,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+735,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+736,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+737,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+738,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+739,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+740,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+741,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+742,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+743,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+744,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+745,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+746,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+747,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+748,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+749,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+750,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+751,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+752,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+753,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+754,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+755,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+756,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+757,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+758,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+759,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+760,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+761,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+762,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+763,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+764,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+765,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+766,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+767,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+768,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+769,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+770,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+771,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+772,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+773,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+774,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+775,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+776,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+777,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+778,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+779,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+780,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+781,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+782,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+783,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+784,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+785,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+786,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+787,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+788,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+789,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+790,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+791,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+792,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+793,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+794,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+795,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+796,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+797,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+798,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+799,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+800,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+801,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+802,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+803,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+804,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+805,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+806,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+807,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+808,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+809,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+810,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+811,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+812,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+813,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+814,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+815,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+816,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+817,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+818,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+819,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+820,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+821,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+822,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+823,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+824,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+825,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+826,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+827,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+828,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+829,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+830,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+831,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+832,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+833,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+834,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+835,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+836,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+837,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+838,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+839,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+840,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+841,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+842,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+843,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+844,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+845,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+846,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+847,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+848,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+849,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+850,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+851,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+852,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+853,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+854,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+855,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+856,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+857,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+858,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+859,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+860,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+861,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+862,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+863,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+864,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+865,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+866,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+867,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+868,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+869,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+870,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+871,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+872,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+873,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+874,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+875,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+876,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+877,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+878,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+879,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+880,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+881,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+882,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+883,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+884,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+885,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+886,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+887,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+888,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+889,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+890,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+891,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+892,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+893,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+894,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+895,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+896,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+897,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+898,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+899,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+900,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+901,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+902,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+903,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+904,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+905,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+906,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+907,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+908,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+909,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+910,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+911,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+912,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+913,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+914,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+915,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+916,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+917,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+918,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+919,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+920,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+921,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+922,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+923,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+924,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+925,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+926,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+927,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+928,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+929,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+930,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+931,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+932,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+933,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+934,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+935,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+936,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+937,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+938,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+939,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+940,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+941,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+942,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+943,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+944,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+945,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+946,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+947,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+948,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+949,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+950,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+951,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+952,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+953,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+954,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+955,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+956,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+957,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+958,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+959,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+960,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+961,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+962,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+963,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+964,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+965,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+966,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+967,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+968,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+969,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+970,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+971,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+972,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+973,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+974,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+975,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+976,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+977,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+978,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+979,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+980,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+981,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+982,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+983,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+984,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+985,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+986,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+987,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+988,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+989,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+990,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+991,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+992,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+993,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+994,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+995,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+996,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+997,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+998,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+999,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1000,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+1001,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1002,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1003,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1004,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1005,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1006,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1007,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1008,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1009,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1010,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1011,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1012,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1013,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1014,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1015,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1016,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1017,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1018,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1019,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1020,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1021,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1022,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1023,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1024,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1025,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+1026,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1027,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1028,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1029,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1030,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1031,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1032,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1033,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1034,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1035,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1036,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1037,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1038,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1039,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1040,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1041,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1042,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1043,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1044,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1045,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1046,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1047,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1048,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1049,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1050,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+1051,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1052,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1053,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1054,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1055,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1056,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1057,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1058,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1059,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1060,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1061,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1062,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1063,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1064,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1065,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1066,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1067,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1068,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1069,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1070,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1071,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1072,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1073,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1074,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1075,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+1076,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1077,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1078,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1079,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1080,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1081,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1082,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1083,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1084,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1085,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1086,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1087,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1088,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1089,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1090,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1091,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1092,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1093,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1094,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1095,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1096,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1097,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1098,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1099,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1100,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+1101,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1102,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1103,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1104,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1105,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1106,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1107,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1108,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1109,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1110,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1111,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1112,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1113,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1114,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1115,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1116,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1117,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1118,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1119,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1120,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1121,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1122,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1123,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1124,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1125,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+1126,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1127,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1128,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1129,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1130,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1131,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1132,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1133,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1134,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1135,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1136,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1137,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1138,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1139,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1140,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1141,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1142,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1143,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1144,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1145,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1146,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1147,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1148,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1149,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1150,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+1151,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1152,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1153,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1154,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1155,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1156,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1157,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1158,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1159,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1160,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1161,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1162,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1163,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1164,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1165,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1166,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1167,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1168,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1169,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1170,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1171,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1172,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1173,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1174,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1175,SmartWatch,True,SmartWatch,True,SmartWatch,True,True
+1176,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1177,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1178,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1179,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1180,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1181,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1182,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1183,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1184,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1185,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1186,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1187,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1188,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1189,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1190,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1191,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1192,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1193,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1194,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1195,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1196,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1197,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1198,SmartWatch,True,SmartWatch,True,SmartWatch,True,False
+1199,SmartWatch,True,SmartWatch,True,SmartWatch,True,False

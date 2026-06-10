@@ -16,19 +16,19 @@ Key parameters:
 - ARES_RECONFIG_FREQUENCY: how often ARES performs reconfiguration
 """
 
-from model import GetWeightKpiProfile, DataSource, Scenario, Simulation, SimulationIteration, ARES_RECONFIG_FREQUENCY, TOTAL_TIME_SIMULATION
+from model import GetHeartRateKpiProfile, DataSource, Scenario, Simulation, SimulationIteration, ARES_RECONFIG_FREQUENCY, TOTAL_TIME_SIMULATION
 from typing import Dict, List, Tuple
 import pandas as pd
 
 # ---------------------------
 # Feasibility function
 # ---------------------------
-def feasible(kpi_profile: GetWeightKpiProfile) -> bool:
+def feasible(kpi_profile: GetHeartRateKpiProfile) -> bool:
     """
     Method to evaluate if a Data Source configuration is feasible.
 
     :param kpi_profile: The current KPI profile to analyze
-    :type kpi_profile: GetWeightKpiProfile
+    :type kpi_profile: GetHeartRateKpiProfile
     :return: True if the Data Source is feasible, False otherwise
     :rtype: bool
     """
@@ -37,12 +37,12 @@ def feasible(kpi_profile: GetWeightKpiProfile) -> bool:
 # ---------------------------
 # Score function
 # ---------------------------
-def score(kpi_profile: GetWeightKpiProfile) -> float:
+def score(kpi_profile: GetHeartRateKpiProfile) -> float:
     """
     Method that computes a weighted score for a KPI profile.
 
     :param kpi_profile: The KPI profile to score
-    :type kpi_profile: GetWeightKpiProfile
+    :type kpi_profile: GetHeartRateKpiProfile
     :return: Weighted score combining reliability and latency
     :rtype: float
     """
@@ -55,12 +55,12 @@ def score(kpi_profile: GetWeightKpiProfile) -> float:
 # ---------------------------
 # Data Source selection
 # ---------------------------
-def data_sources_selection(ds_profiles: Dict[DataSource, GetWeightKpiProfile]) -> DataSource:
+def data_sources_selection(ds_profiles: Dict[DataSource, GetHeartRateKpiProfile]) -> DataSource:
     """
     Method to select the best Data Source based on maximizing the score function.
 
     :param ds_profiles: Current KPI profiles of all Data Sources
-    :type ds_profiles: Dict[DataSource, GetWeightKpiProfile]
+    :type ds_profiles: Dict[DataSource, GetHeartRateKpiProfile]
     :return: The Data Source that maximizes the score
     :rtype: DataSource
     """
@@ -70,7 +70,7 @@ def data_sources_selection(ds_profiles: Dict[DataSource, GetWeightKpiProfile]) -
 # ---------------------------
 # Reconfiguration logic
 # ---------------------------
-def reconfiguration(ds_profiles: Dict[DataSource, GetWeightKpiProfile]) -> Tuple[DataSource, bool]:
+def reconfiguration(ds_profiles: Dict[DataSource, GetHeartRateKpiProfile]) -> Tuple[DataSource, bool]:
     """
     Method that performs the reconfiguration of the active data source.
 
@@ -78,7 +78,7 @@ def reconfiguration(ds_profiles: Dict[DataSource, GetWeightKpiProfile]) -> Tuple
     and returns the selected configuration along with feasibility.
 
     :param ds_profiles: Current KPI profiles of all Data Sources
-    :type ds_profiles: Dict[DataSource, GetWeightKpiProfile]
+    :type ds_profiles: Dict[DataSource, GetHeartRateKpiProfile]
     :return: Tuple of (selected Data Source, feasibility flag)
     :rtype: Tuple[DataSource, bool]
     """
@@ -90,14 +90,14 @@ def reconfiguration(ds_profiles: Dict[DataSource, GetWeightKpiProfile]) -> Tuple
 # ---------------------------
 # KPI profiles import
 # ---------------------------
-def import_kpi_profiles(scenario: Scenario) -> Tuple[Dict[DataSource, List[GetWeightKpiProfile]], Dict[DataSource, List[GetWeightKpiProfile]]]:
+def import_kpi_profiles(scenario: Scenario) -> Tuple[Dict[DataSource, List[GetHeartRateKpiProfile]], Dict[DataSource, List[GetHeartRateKpiProfile]]]:
     """
     Method to import KPI profiles from CSV files for a given scenario.
 
     :param scenario: The scenario to import data from
     :type scenario: Scenario
     :return: Tuple of dictionaries containing ground truth and estimated KPIs
-    :rtype: Tuple[Dict[DataSource, List[GetWeightKpiProfile]] , Dict[DataSource, List[GetWeightKpiProfile]]]
+    :rtype: Tuple[Dict[DataSource, List[GetHeartRateKpiProfile]] , Dict[DataSource, List[GetHeartRateKpiProfile]]]
     """
     ground_truth_kpis = {}
     estimated_kpis = {}
@@ -105,12 +105,12 @@ def import_kpi_profiles(scenario: Scenario) -> Tuple[Dict[DataSource, List[GetWe
     for ds in DataSource:
         # Ground truth
         ds_gt_df = pd.read_csv(f"data/{scenario.name}/{ds.name}_ground_truth.csv")
-        ds_gt_kpis = [GetWeightKpiProfile(row.reliability, row.latency) for _, row in ds_gt_df.iterrows()]
+        ds_gt_kpis = [GetHeartRateKpiProfile(row.reliability, row.latency) for _, row in ds_gt_df.iterrows()]
         ground_truth_kpis[ds] = ds_gt_kpis
 
         # estimated
         ds_est_df = pd.read_csv(f"data/{scenario.name}/{ds.name}_estimated.csv")
-        ds_est_kpis = [GetWeightKpiProfile(row.reliability, row.latency) for _, row in ds_est_df.iterrows()]
+        ds_est_kpis = [GetHeartRateKpiProfile(row.reliability, row.latency) for _, row in ds_est_df.iterrows()]
         estimated_kpis[ds] = ds_est_kpis
 
     return ground_truth_kpis, estimated_kpis

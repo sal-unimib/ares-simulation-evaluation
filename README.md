@@ -150,7 +150,7 @@ The experiments are conducted under three scenarios:
 
 The system evaluates multiple data sources:
 
-* Smart Scale
+* SmartWatch
 * Cloud Service
 * Manual Input
 

@@ -20,7 +20,7 @@ import pandas as pd
 import random
 from typing import Dict, List
 
-from model import DataSource, GetWeightKpiProfile, Scenario, TOTAL_TIME_SIMULATION
+from model import DataSource, GetHeartRateKpiProfile, Scenario, TOTAL_TIME_SIMULATION
 
 
 # ---------------------------
@@ -45,15 +45,15 @@ random.seed(1234)
 # These represent the baseline from which simulations start
 # ---------------------------
 base_kpi_profiles = {
-    DataSource.smart_scale: GetWeightKpiProfile(
+    DataSource.smartwatch: GetHeartRateKpiProfile(
         reliability=0.95,
         latency=1.2
     ),
-    DataSource.cloud_service: GetWeightKpiProfile(
+    DataSource.cloud_service: GetHeartRateKpiProfile(
         reliability=0.9,
         latency=1.8
     ),
-    DataSource.manual_input: GetWeightKpiProfile(
+    DataSource.manual_input: GetHeartRateKpiProfile(
         reliability=0.85,
         latency=1.0
     )
@@ -63,14 +63,14 @@ base_kpi_profiles = {
 # ---------------------------
 # Ground Truth Generation
 # ---------------------------
-def generate_ground_truth(scenario: Scenario) -> Dict[DataSource, List[GetWeightKpiProfile]]:
+def generate_ground_truth(scenario: Scenario) -> Dict[DataSource, List[GetHeartRateKpiProfile]]:
     """
     Method that generates the ground truth KPI profiles for a given scenario.
 
     :param scenario: The scenario to simulate (stable, degradation, dynamic)
     :type scenario: Scenario
     :return: Dictionary mapping each DataSource to a list of KPI profiles over time
-    :rtype: Dict[DataSource, List[GetWeightKpiProfile]]
+    :rtype: Dict[DataSource, List[GetHeartRateKpiProfile]]
     """
     scenario_kpis = {}
 
@@ -85,7 +85,7 @@ def generate_ground_truth(scenario: Scenario) -> Dict[DataSource, List[GetWeight
             # Stable scenario: KPIs remain constant
             # ---------------------------
             if scenario == Scenario.stable:
-                ds_ground_truth.append(GetWeightKpiProfile(
+                ds_ground_truth.append(GetHeartRateKpiProfile(
                     reliability=base_reliability,
                     latency=base_latency
                 ))
@@ -94,13 +94,13 @@ def generate_ground_truth(scenario: Scenario) -> Dict[DataSource, List[GetWeight
             # Degradation scenario: slow deterioration of some KPIs
             # ---------------------------
             elif scenario == Scenario.degradation:
-                if ds == DataSource.smart_scale:
-                    ds_ground_truth.append(GetWeightKpiProfile(
+                if ds == DataSource.smartwatch:
+                    ds_ground_truth.append(GetHeartRateKpiProfile(
                         reliability=max(0.60, base_reliability - 0.0003 * t),
                         latency=min(3.50, base_latency + 0.0015 * t)
                     ))
                 else:
-                    ds_ground_truth.append(GetWeightKpiProfile(
+                    ds_ground_truth.append(GetHeartRateKpiProfile(
                         reliability=base_reliability,
                         latency=base_latency
                     ))
@@ -109,35 +109,35 @@ def generate_ground_truth(scenario: Scenario) -> Dict[DataSource, List[GetWeight
             # Dynamic scenario: temporary and sudden KPI changes
             # ---------------------------
             elif scenario == Scenario.dynamic:
-                if ds == DataSource.smart_scale:
+                if ds == DataSource.smartwatch:
                     if t in range(200, 350):
-                        ds_ground_truth.append(GetWeightKpiProfile(0.75, 2.8))
+                        ds_ground_truth.append(GetHeartRateKpiProfile(0.75, 2.8))
                     elif t in range(500, 650):
-                        ds_ground_truth.append(GetWeightKpiProfile(0.92, 1.4))
+                        ds_ground_truth.append(GetHeartRateKpiProfile(0.92, 1.4))
                     elif t in range(850, 1000):
-                        ds_ground_truth.append(GetWeightKpiProfile(0.65, 3.2))
+                        ds_ground_truth.append(GetHeartRateKpiProfile(0.65, 3.2))
                     else:
-                        ds_ground_truth.append(GetWeightKpiProfile(
+                        ds_ground_truth.append(GetHeartRateKpiProfile(
                             reliability=base_reliability,
                             latency=base_latency
                         ))
 
                 elif ds == DataSource.cloud_service:
                     if t in range(350, 500):
-                        ds_ground_truth.append(GetWeightKpiProfile(0.93, 1.4))
+                        ds_ground_truth.append(GetHeartRateKpiProfile(0.93, 1.4))
                     elif t in range(700, 850):
-                        ds_ground_truth.append(GetWeightKpiProfile(0.78, 2.6))
+                        ds_ground_truth.append(GetHeartRateKpiProfile(0.78, 2.6))
                     else:
-                        ds_ground_truth.append(GetWeightKpiProfile(
+                        ds_ground_truth.append(GetHeartRateKpiProfile(
                             reliability=base_reliability,
                             latency=base_latency
                         ))
 
                 elif ds == DataSource.manual_input:
                     if t in range(500, 650):
-                        ds_ground_truth.append(GetWeightKpiProfile(0.88, 0.9))
+                        ds_ground_truth.append(GetHeartRateKpiProfile(0.88, 0.9))
                     else:
-                        ds_ground_truth.append(GetWeightKpiProfile(
+                        ds_ground_truth.append(GetHeartRateKpiProfile(
                             reliability=base_reliability,
                             latency=base_latency
                         ))
@@ -151,16 +151,16 @@ def generate_ground_truth(scenario: Scenario) -> Dict[DataSource, List[GetWeight
 # estimated KPI Generation
 # ---------------------------
 def generate_estimated_kpi(
-        ground_truth: Dict[DataSource, List[GetWeightKpiProfile]]
-) -> Dict[DataSource, List[GetWeightKpiProfile]]:
+        ground_truth: Dict[DataSource, List[GetHeartRateKpiProfile]]
+) -> Dict[DataSource, List[GetHeartRateKpiProfile]]:
     """
     Method that generates estimated KPI profiles by introducing random noise
     and measurement delay.
 
     :param ground_truth: The ground truth KPI profiles for each DataSource
-    :type ground_truth: Dict[DataSource, List[GetWeightKpiProfile]]
+    :type ground_truth: Dict[DataSource, List[GetHeartRateKpiProfile]]
     :return: Dictionary mapping each DataSource to a list of estimated KPI profiles
-    :rtype: Dict[DataSource, List[GetWeightKpiProfile]]
+    :rtype: Dict[DataSource, List[GetHeartRateKpiProfile]]
     """
     scenario_kpis = {}
 
@@ -173,7 +173,7 @@ def generate_estimated_kpi(
             delayed_latency = ground_truth[ds][t-3].latency if t-3 >= 0 else base_kpi_profiles[ds].latency
 
             # Add random noise
-            ds_estimated_kpis.append(GetWeightKpiProfile(
+            ds_estimated_kpis.append(GetHeartRateKpiProfile(
                 reliability=delayed_reliability + random.uniform(-0.03, 0.03),
                 latency=delayed_latency + random.uniform(-0.20, 0.20)
             ))
